@@ -4,6 +4,7 @@
 #include <LiquidCrystal_I2C.h>
 
 // Define constants and objects
+
 Servo servoMotor;
 LiquidCrystal_I2C lcdDisplay(0x27, 16, 2);
 
